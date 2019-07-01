@@ -1,5 +1,7 @@
-## This repo will be updated upon completion of the San Antonio CivTech Datathon.  I am working with two other Data Scientists that recently graduated from Codeup's Data Science program.
+## This repo contains a master_sso notebook.  This notebook used data provided by SAWS for the CivTechSA Datathon held in June 2019.  For this event, I worked with two others from Codeup to offer insights and create proof of concept models.  Our focus was on sanitation sewer overflows (SSO's).
 
-## We are looking to provide insight for SAWS to help them better understand their sewage overflows which have a great positive impact on the environment and San Antonio's water.  
+## Our presentation was awarded 'Most Solvable'.
 
-## Stay tuned to see our final product.
+## The proof of concept notebook is included.  There was not a lot of data to try and predict SSO's, so we used the idea that monitoring flow can help predict when a pipe will reach 80% clogged in order to be cleaned prior to an SSO occuring.
+
+## The proof of concept helper functions are functions to create a mock pipeline and flow data that can be used in a polynomial regression model.  Discussions with SAWS informed them that other features can be used if data was available.
