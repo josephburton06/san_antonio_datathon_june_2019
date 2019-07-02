@@ -1,4 +1,4 @@
-## These notebooks used data provided by SAWS for the CivTechSA Datathon held in June 2019.  For this event, I worked with two others from Codeup to offer insights and create proof of concept models.  Our focus was on sanitation sewer overflows (SSO's).  Findings included trends in grease caused SSO's during colder months, high gallon leak locations to be targeted first for most impact, and the importance of monitoring recently cleaned pipes due to grease clogs occuring sooner than expected.
+## These notebooks used data provided by SAWS for the CivTechSA Datathon held in June 2019.  For this event, I worked with two others from Codeup to offer insights and create proof of concept models.  Our focus was on sanitation sewer overflows (SSO's).  Findings included trends in grease caused SSO's during colder months, high gallon leak locations to be targeted first for most impact, and the importance of monitoring recently cleaned pipes due to grease clogs occuring sooner than expected after cleaning.
 
 ## Our presentation was awarded 'Most Solvable'.
 
